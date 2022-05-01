@@ -1,13 +1,13 @@
 
 {
 "productos":[
-    {"id":6,"Nombre":"Brocoli","Categoria":"Verdura","Precio":22,"Stock":5,"Img":"./img/brocoli.png"},
-    {"id":1,"Nombre":"Naranja","Categoria":"Fruta","Precio":20,"Stock":10,"Img":"./img/Naranja.png"},
-    {"id":3,"Nombre":"Malvavisco","Categoria":"Dulces","Precio":10,"Stock":30,"Img":"./img/malvavisco.png"},
-    {"id":4,"Nombre":"Pomelo","Categoria":"Fruta","Precio":21,"Stock":30,"Img":"./img/pomelo.png"},
-    {"id":2,"Nombre":"Pera","Categoria":"Fruta","Precio":5,"Stock":20,"Img":"./img/pera.png"},
-    {"id":5,"Nombre":"Cebolla","Categoria":"Verdura","Precio":22,"Stock":10,"Img":"./img/cebolla.png"},
+    {"id":6,"Nombre":"Brocoli","Categoria":"Verdura","Precio":22,"Stock":5,"Img":"https://github.com/MateoAbrasits/Api-productos/blob/main/Img/brocoli.png?raw=true"},
+    {"id":1,"Nombre":"Naranja","Categoria":"Fruta","Precio":20,"Stock":10,"Img":"https://raw.githubusercontent.com/MateoAbrasits/Api-productos/main/Img/Naranja.png"},
+    {"id":3,"Nombre":"Malvavisco","Categoria":"Dulces","Precio":10,"Stock":30,"Img":"https://github.com/MateoAbrasits/Api-productos/blob/main/Img/malvavisco.png?raw=true"},
+    {"id":4,"Nombre":"Pomelo","Categoria":"Fruta","Precio":21,"Stock":30,"Img":"https://github.com/MateoAbrasits/Api-productos/blob/main/Img/pomelo.png?raw=true"},
+    {"id":2,"Nombre":"Pera","Categoria":"Fruta","Precio":5,"Stock":20,"Img":"https://github.com/MateoAbrasits/Api-productos/blob/main/Img/pera.png?raw=true"},
+    {"id":5,"Nombre":"Cebolla","Categoria":"Verdura","Precio":22,"Stock":10,"Img":"https://raw.githubusercontent.com/MateoAbrasits/Api-productos/main/Img/cebolla.png"},
     {"id":7,"Nombre":"Muffin","Categoria":"Dulces","Precio":40,"Stock":25,"Img":"https://raw.githubusercontent.com/MateoAbrasits/Api-productos/main/Img/Muffin.png"},
-    {"id":8,"Nombre":"Tomate","Categoria":"Verdura","Precio":31,"Stock":25,"Img":"./img/Tomate.png"}
+    {"id":8,"Nombre":"Tomate","Categoria":"Verdura","Precio":31,"Stock":25,"Img":"https://raw.githubusercontent.com/MateoAbrasits/Api-productos/main/Img/Tomate.png"}
 ]
 }
