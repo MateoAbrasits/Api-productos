@@ -7,7 +7,7 @@
     {"id":4,"Nombre":"Pomelo","Categoria":"Fruta","Precio":21,"Stock":30,"Img":"./img/pomelo.png"},
     {"id":2,"Nombre":"Pera","Categoria":"Fruta","Precio":5,"Stock":20,"Img":"./img/pera.png"},
     {"id":5,"Nombre":"Cebolla","Categoria":"Verdura","Precio":22,"Stock":10,"Img":"./img/cebolla.png"},
-    {"id":7,"Nombre":"Muffin","Categoria":"Dulces","Precio":40,"Stock":25,"Img":"./https://raw.githubusercontent.com/MateoAbrasits/Api-productos/main/Img/Muffin.png"},
+    {"id":7,"Nombre":"Muffin","Categoria":"Dulces","Precio":40,"Stock":25,"Img":"https://raw.githubusercontent.com/MateoAbrasits/Api-productos/main/Img/Muffin.png"},
     {"id":8,"Nombre":"Tomate","Categoria":"Verdura","Precio":31,"Stock":25,"Img":"./img/Tomate.png"}
 ]
 }
